@@ -5,9 +5,9 @@
 
   <h2 align="center"> Leading Change Consultants </h2>
 
-  A fully responsive Leading Change Consultantswebsite, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  A fully responsive Leading Change Consultants website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/pfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://usmantheguy.github.io/LeadingChange-Consultants/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
